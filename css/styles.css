@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.titulo {
+    color: forestgreen;
+    text-align: center;
+}
+
+[enviar]{
+    margin-top: 15px;
+}
